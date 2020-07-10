@@ -2,7 +2,6 @@ git clone https://github.com/hammadali6096/docker_app
 
 cd node-bulletin-board/bulletin-board-app
 
-//cd bulletin-board-app/node-bulletin-board/bulletin-board-app
 
 docker build --tag bulletinboard:1.0 .
 
